@@ -20,8 +20,10 @@ public class Ejemplo01 {
         nombreEstudiante = "René Elizalde";
         System.out.println(nombreEstudiante);
         System.out.println("René Elizalde");
+        // Ya no se puede declarar el tipo de variable de una variable que ya esta declarada
         nombreEstudiante = "Felipe Elizalde";
         System.out.println(nombreEstudiante);
+        
     }
-    
+
 }
