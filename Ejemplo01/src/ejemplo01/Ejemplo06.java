@@ -28,6 +28,9 @@ public class Ejemplo06 {
         //        apellidoEstudiante, nacimiento);
         System.out.printf("Nombre:%s\n\n%s\n\n%s\n", nombreEstudiante, 
                 apellidoEstudiante, nacimiento);
+        System.out.println("------------------");
+        System.out.printf("Nombre:%s\n\nApellido:%s\n\nNacimiento:%s\n", nombreEstudiante, 
+                apellidoEstudiante, nacimiento);
         
     }
 }
